@@ -1,2 +1,2 @@
 # learning-log
-勉強の記録wo
+githubが学習のlogとして機能するか検証中
